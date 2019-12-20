@@ -1,0 +1,9 @@
+{
+    "containerResourceRequirements": {
+       "cpu": 2,
+       "memoryInGB": 4
+    },
+    "computeType": "ACI",
+    "enableAppInsights": "True",
+    "dns_name_label": "seer-svc"
+ }

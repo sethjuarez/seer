@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+.azureml/
+data/
+logs/
+outputs/
+*.dot
+*.npz
+Untitled.ipynb
+*.tfrecords
+*.log
+run.cmd
+.vscode
